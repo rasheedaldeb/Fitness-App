@@ -1,7 +1,5 @@
 import Logo from "@/assets/Logo.png";
-interface Props {}
-
-const Footer = (props: Props) => {
+const Footer = () => {
   return (
     <footer className="bg-primary-100 py-16">
       <div className="mx-auto w-5/6 justify-center gap-16 md:flex">
